@@ -10,7 +10,7 @@
                 </ul>
             </aside>
             <main class="flex-1 p-4">
-                <slot />
+                <router-view />
             </main>
         </div>
     </div>
